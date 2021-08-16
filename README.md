@@ -42,4 +42,6 @@ Here are some ideas to get you started:
   <img src="https://visitor-badge.glitch.me/badge?page_id=BeholdenArt" alt="visitor badge"/>
 </p>
 
+[Priyanshu Bairwa](https://github.com/BeholdenArt)
+
 -----
